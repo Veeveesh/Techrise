@@ -1,4 +1,4 @@
-# CLAS SN: B50
+# CLASS SN: B1
 
 # Task 1
 # The students record is a list of dicts...
