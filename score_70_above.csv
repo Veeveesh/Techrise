@@ -1,0 +1,50 @@
+student_id,name,first_name,last_name,age,city,class,subject,score,status,hours_studied,enrollment_date
+1026,Amaka Suleiman,Amaka,Suleiman,27,Owerri,Class A,Data Analysis,77.1,pass,9.7,2026-01-15
+1023,Tunde Suleiman,Tunde,Suleiman,23,Aba,Class A,SQL,85.0,pass,13.3,2026-01-22
+1062,Yetunde Okonkwo,Yetunde,Okonkwo,25,Port Harcourt,Class B,Python,75.1,PASS,13.5,2026-01-20
+1059,Aisha Udo,Aisha,Udo,25,Aba,Class B,Python,88.8,pass,12.4,2026-01-18
+1029,Esther Bello,Esther,Bello,20,Enugu,Class A,Python,71.5,pass,13.8,2026-01-18
+1078,Folake Okonkwo,Folake,Okonkwo,24,Aba,Class B,SQL,72.6,pass,7.7,2026-01-22
+1074,Ngozi Ogunleye,Ngozi,Ogunleye,24,,Class B,SQL,100.0,pass,6.3,2026-01-22
+1053,Nneka Olawale,Nneka,Olawale,31,Aba,Class B,Python,84.2,pass,7.0,2026-01-15
+1037,Blessing Okafor,Blessing,Okafor,25,Owerri,Class A,Python,77.0,pass,3.2,2026-01-16
+1051,Zainab Bello,Zainab,Bello,25,Enugu,Class B,SQL,76.5,pass,8.1,2026-01-18
+1039,Emeka Anyanwu,Emeka,Anyanwu,23,Lagos,Class A,Python,81.9,pass,11.4,2026-01-20
+1022,Esther Olawale,Esther,Olawale,19,Owerri,Class A,Data Analysis,86.6,pass,17.5,2026-01-13
+1050,Esther Bello,Esther,Bello,18,Umuahia,Class B,HTML/CSS,80.8,pass,12.5,2026-01-13
+1021,Chukwudi Eze,Chukwudi,Eze,22,Lagos,Class A,HTML/CSS,71.6,pass,5.8,2026-01-12
+1040,Tobi Adeyemi,Tobi,Adeyemi,19,Onitsha,Class A,HTML/CSS,88.9,pass,,2026-01-19
+1087,Zainab Nwosu,Zainab,Nwosu,25,Lagos,Class B,SQL,82.1,pass,7.8,2026-01-20
+1003,Zainab Akpan,Zainab,Akpan,30,Port Harcourt,Class A,Python,88.0,pass,10.4,2026-01-18
+1012,Onyeka Udo,Onyeka,Udo,19,Port Harcourt,Class A,Python,88.7,pass,7.5,2026-01-16
+1031,Zainab Nwosu,Zainab,Nwosu,24,Lagos,Class A,SQL,84.6,FAIL,9.0,2026-01-22
+1070,Chidi Nwankwo,Chidi,Nwankwo,26,Owerri,Class B,Data Analysis,82.7,Fail,27.0,2026-01-13
+1042,  AMAKA OKONKWO  ,Amaka,Okonkwo,18,,Class A,HTML/CSS,81.6,pass,20.2,2026-01-16
+1019,Ngozi Akpan,Ngozi,Akpan,28,Aba,Class A,HTML/CSS,86.1,pass,8.7,2026-01-19
+1063,Kemi Olawale,Kemi,Olawale,25,Umuahia,Class B,Python,77.1,pass,7.5,2026-01-21
+1070,Chidi Nwankwo,Chidi,Nwankwo,26,Owerri,Class B,Data Analysis,82.7,Fail,27.0,2026-01-13
+1020,Segun Ibrahim,Segun,Ibrahim,22,Onitsha,Class A,HTML/CSS,78.3,pass,14.9,2026-01-17
+1073,Wale Okoro,Wale,Okoro,20,Owerri,Class B,HTML/CSS,70.9,pass,8.2,2026-01-16
+1086,Wale Chukwu,Wale,Chukwu,22,Onitsha,Class B,HTML/CSS,90.5,pass,9.7,2026-01-15
+1009,Tunde Olawale,Tunde,Olawale,21,Umuahia,Class A,Python,79.4,pass,6.6,2026-01-18
+1004,  KEMI OKAFOR  ,Kemi,Okafor,26,Aba,Class A,Python,72.0,pass,8.4,2026-01-15
+1036,Tobi Balogun,Tobi,Balogun,25,Port Harcourt,Class A,Python,100.0,pass,14.4,2026-01-17
+1085,Kemi Nwankwo,Kemi,Nwankwo,32,Lagos,Class B,SQL,85.4,Fail,5.9,2026-01-12
+1090,Nneka Olawale,Nneka,Olawale,18,Lagos,Class B,Data Analysis,70.3,pass,10.6,2026-01-22
+1008,Olamide Bello,Olamide,Bello,23,Owerri,Class A,SQL,72.9,pass,4.7,2026-01-14
+1015,Tobi Nwankwo,Tobi,Nwankwo,23,Lagos,Class A,Python,74.1,pass,4.6,2026-01-15
+1058,Ngozi Bello,Ngozi,Bello,20,Enugu,Class B,Data Analysis,75.0,pass,12.0,2026-01-15
+1011,  ESTHER EZE  ,Esther,Eze,21,,Class A,Data Analysis,100.0,pass,13.7,2026-01-13
+1028,Aisha Nwosu,Aisha,Nwosu,25,Onitsha,Class A,HTML/CSS,93.2,pass,10.8,2026-01-14
+1024,Blessing Udo,Blessing,Udo,21,Aba,Class A,Data Analysis,80.7,pass,17.5,2026-01-16
+1071,Ada Ogunleye,Ada,Ogunleye,26,Umuahia,Class B,Python,92.8,pass,16.7,2026-01-20
+1068,Amaka Suleiman,Amaka,Suleiman,26,Owerri,Class B,SQL,86.1,pass,16.2,2026-01-15
+1038,Ifeoma Eze,Ifeoma,Eze,23,Port Harcourt,Class A,HTML/CSS,74.8,pass,20.5,2026-01-13
+1002,Ifeoma Abubakar,Ifeoma,Abubakar,30,Onitsha,Class A,HTML/CSS,71.0,pass,9.2,2026-01-13
+1033,Femi Okafor,Femi,Okafor,25,Port Harcourt,Class A,SQL,75.4,pass,10.7,2026-01-14
+1049,Chidi Suleiman,Chidi,Suleiman,25,Aba,Class B,Data Analysis,86.2,pass,7.1,2026-01-19
+1025,Chidi Abubakar,Chidi,Abubakar,0,Onitsha,Class A,SQL,92.3,pass,2.3,2026-01-21
+1077,Nneka Akpan,Nneka,Akpan,21,Owerri,Class B,HTML/CSS,82.8,pass,8.7,2026-01-16
+1014,  OLAMIDE OKORO  ,Olamide,Okoro,24,Onitsha,Class A,Python,87.6,pass,12.9,2026-01-15
+1056,Femi Akpan,Femi,Akpan,25,Umuahia,Class B,Python,88.7,Pass,19.9,2026-01-22
+1026,Amaka Suleiman,Amaka,Suleiman,27,Owerri,Class A,Data Analysis,77.1,pass,9.7,2026-01-15
