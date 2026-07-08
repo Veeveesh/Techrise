@@ -1,7 +1,6 @@
 Class py notes/
 venv/
 requirements/
-week3/
 *.log
 *.pyc
 __pycache__/

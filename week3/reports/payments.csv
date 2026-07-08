@@ -1,0 +1,36 @@
+payment_id,tenant_name,property_address,property_type,amount_paid,expected_amount,date_paid,status
+1,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-01-01,on_time
+2,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-02-01,on_time
+3,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-03-10,late
+4,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-04-01,on_time
+5,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-05-18,late
+6,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-06-01,on_time
+7,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-07-01,on_time
+8,Ada Nwosu,"Flat 2B, 14 Ikot Ekpene Rd, Aba",Flat,110000,110000,2024-08-05,late
+9,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,85000,85000,2024-02-01,on_time
+10,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,85000,85000,2024-03-09,late
+11,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,85000,85000,2024-04-01,on_time
+12,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,80000,85000,2024-05-01,on_time
+13,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,85000,85000,2024-06-22,late
+14,Emeka Chukwu,"Flat 4A, 9 Eziama Close, Aba",Flat,85000,85000,2024-07-01,on_time
+15,Fatima Aliyu,"12 GRA Layout, Aba",Duplex,400000,400000,2024-01-15,late
+16,Fatima Aliyu,"12 GRA Layout, Aba",Duplex,400000,400000,2024-02-15,late
+17,Fatima Aliyu,"12 GRA Layout, Aba",Duplex,350000,400000,2024-03-15,late
+18,Fatima Aliyu,"12 GRA Layout, Aba",Duplex,400000,400000,2024-04-15,late
+19,Fatima Aliyu,"12 GRA Layout, Aba",Duplex,400000,400000,2024-05-15,late
+20,Chidi Okonkwo,"Room 5, Ariaria Quarters, Aba",SelfContain,30000,30000,2024-04-01,on_time
+21,Chidi Okonkwo,"Room 5, Ariaria Quarters, Aba",SelfContain,30000,30000,2024-05-11,late
+22,Chidi Okonkwo,"Room 5, Ariaria Quarters, Aba",SelfContain,30000,30000,2024-06-01,on_time
+23,Chidi Okonkwo,"Room 5, Ariaria Quarters, Aba",SelfContain,25000,30000,2024-07-01,on_time
+24,Chidi Okonkwo,"Room 5, Ariaria Quarters, Aba",SelfContain,30000,30000,2024-08-01,on_time
+25,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-02-01,on_time
+26,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-03-01,on_time
+27,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-04-16,late
+28,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-05-01,on_time
+29,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-06-01,on_time
+30,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,50000,60000,2024-07-01,on_time
+31,Ngozi Eze,"Shop A3, Ariaria Market, Aba",Shop,60000,60000,2024-08-01,on_time
+32,Bola Adeyemi,"Shop B7, Cemetery Rd Mkt, Aba",Shop,45000,45000,2024-06-01,on_time
+33,Bola Adeyemi,"Shop B7, Cemetery Rd Mkt, Aba",Shop,45000,45000,2024-07-13,late
+34,Bola Adeyemi,"Shop B7, Cemetery Rd Mkt, Aba",Shop,45000,45000,2024-08-01,on_time
+35,Bola Adeyemi,"Shop B7, Cemetery Rd Mkt, Aba",Shop,40000,45000,2024-09-01,on_time
