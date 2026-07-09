@@ -1,5 +1,5 @@
 # CLASS SN: B1 
-# score_analyzer.py
+# STUDENT SCORE ANALYSER PRO
 """
 Student Score Analyzer — Week 1 Project
 Asks for three test scores, calculates the average,

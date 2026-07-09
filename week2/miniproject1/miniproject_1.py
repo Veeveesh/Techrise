@@ -31,7 +31,7 @@ def read_csv(filename):
             if not data:
                 raise ValueError 
             
-            return data # failure to include this will result in an error during the formatting stage
+            return data  # failure to include this will result in an error during the formatting stage
     except FileNotFoundError:  # Raise FileNotFoundError if the file does not exist
         raise  FileNotFoundError
     except ValueError:   # Raise ValueError if the file is empty
@@ -121,6 +121,10 @@ def main():
         filename = sys.argv[1]
     else:
         filename = input("Enter CSV filename: ").strip()
+
+        project_root = Path(__file__).parent.parent
+
+        filename = project_root / "data" / filename
     try:
         data = read_csv(filename)
         numerics = detect_numeric(data)

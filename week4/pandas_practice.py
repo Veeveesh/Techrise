@@ -36,7 +36,8 @@ print(dfw.shape)
 # workcs = pd.read_csv(r'C:\Users\HomePC\Desktop\Techrise\week4\dataset\workcsv.csv')
 # print(workcs.shape)
 
-dataset = pd.read_csv(r'https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv')
+#dataset = pd.read_csv(r'https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv')
+dataset = pd.read_csv(r'week4\dataset\titanic.csv')
 dataset.to_csv("titan.csv",index= False)
 print(dataset.shape)
 # # Exploring
@@ -57,8 +58,8 @@ dataset[dataset['Fare']> average_fare]
 
 dataset[(dataset['Fare']> average_fare)& (dataset['Sex']=='female')]
 
-thia = dataset[dataset['Cabin'].isin(['C85','B42','C148'])]
-print(thia)
+cabin_filter = dataset[dataset['Cabin'].isin(['C85','B42','C148'])]
+print(cabin_filter)
 
 
 # Sorting a DataFrame
